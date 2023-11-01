@@ -28,7 +28,7 @@ def decrypt(text,key):
 
 
 
-if st.button("decrypt"):
+if st.button("Decrypt"):
     ans = decrypt(user_input,int(key_input))
 
     st.subheader(f"Decrypted_text =  {ans}")

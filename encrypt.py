@@ -2,7 +2,7 @@ import streamlit as st
 import sys
 
 
-st.markdown("<h1 style='text-align: center; color: Blue;'>Cryptography</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: Red;'>Cryptography</h1>", unsafe_allow_html=True)
 
 st.subheader("Encrypt Functionality")
 
